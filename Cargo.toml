@@ -1,0 +1,2 @@
+[workspace]
+members = ["graphql", "dependencies", "auth", "storage", "renderer", "monitor"]
